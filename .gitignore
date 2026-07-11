@@ -1,0 +1,21 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swo
+*.swp
+
+# PHP / Composer
+vendor/
+composer.lock
+
+# Logs
+error_log
+*.log

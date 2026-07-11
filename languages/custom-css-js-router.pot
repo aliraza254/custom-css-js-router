@@ -1,0 +1,198 @@
+# Copyright (C) 2026 Stackians
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom CSS JS Router 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-css-js-router\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-07-11 16:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: custom-css-js-router\n"
+
+#. Plugin Name of the plugin
+msgid "Custom CSS JS Router"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows you to easily inject custom CSS styles and JavaScript scripts globally or page-specifically."
+msgstr ""
+
+#. Author of the plugin
+msgid "Stackians"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:21
+msgid "Code Router"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:22
+#: includes/Controllers/class-custom-css-js-router-admin.php:37
+msgid "Dashboard"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:49
+#: includes/Controllers/class-custom-css-js-router-admin.php:50
+msgid "How to Use"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:61
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:78
+msgid "Code Router"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:98
+msgid "How to Use"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:106
+msgid "⚠️ SAFE MODE ACTIVE:"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:106
+msgid "Custom CSS and JS injection is currently bypassed. Fix your broken code here, then disable safe mode to restore normal functionality."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:123
+msgid "Global Configuration"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:124
+msgid "Applies to all pages"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:126
+msgid "Global settings status"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:182
+msgid "No pages found."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:192
+msgid "No Page Selected"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:193
+msgid "Choose a page from the sidebar list to view or edit its custom styles and scripts."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:210
+msgid "View Page"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:215
+msgid "Enable Custom Code"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:226
+msgid "CSS Styles"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:229
+msgid "JavaScript"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:241
+msgid "Load Context:"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:244
+msgid "Frontend Only"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:247
+msgid "Admin Dashboard Only"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:250
+msgid "Both (Frontend & Admin)"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:284
+msgid "Save Changes"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:327
+msgid "Quick Start Guide"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:328
+msgid "Code Router allows you to inject custom CSS styles and JavaScript scripts globally or for specific pages without editing your theme files."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:332
+msgid "Global Configuration:"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:333
+msgid "Applies injected CSS and JS to all pages. Use this for site-wide styling or analytics scripts."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:336
+msgid "Page-Specific Configuration:"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:337
+msgid "Target individual pages from the sidebar to inject code specifically on that page. Perfect for landing pages or unique layout modifications."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:340
+msgid "Load Contexts:"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:341
+msgid "Choose where your CSS and JS will load: Frontend only, Admin Dashboard only, or Both. You can write distinct code blocks for each context concurrently."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:347
+msgid "Safe Mode Recovery"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:348
+msgid "If you accidentally inject broken code that breaks your site or prevents admin access, you can bypass all custom code execution by adding %1$s to your URL or by defining %2$s in your %3$s file."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:336
+#: includes/Controllers/class-custom-css-js-router-ajax.php:27
+msgid "Permission denied."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-admin.php:342
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-ajax.php:36
+msgid "Invalid page ID."
+msgstr ""
+
+#: includes/Controllers/class-custom-css-js-router-ajax.php:110
+msgid "Changes updated successfully."
+msgstr ""
+
+#: includes/Services/class-custom-css-js-router-asset-manager.php:62
+msgid "Select a page from the sidebar to customize its CSS and JS."
+msgstr ""
+
+#: includes/Services/class-custom-css-js-router-asset-manager.php:63
+msgid "Loading editor..."
+msgstr ""
+
+#: includes/Services/class-custom-css-js-router-asset-manager.php:64
+msgid "Changes saved successfully!"
+msgstr ""
+
+#: includes/Services/class-custom-css-js-router-asset-manager.php:65
+msgid "Failed to save changes. Please try again."
+msgstr ""
+
+#: includes/Services/class-custom-css-js-router-asset-manager.php:66
+msgid "Failed to load custom code. Please reload the page."
+msgstr ""

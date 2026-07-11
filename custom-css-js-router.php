@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Custom CSS JS Router
  * Plugin URI:  https://github.com/aliraza254/custom-css-js-router
- * Description: Inject custom CSS styles and JavaScript scripts globally or page-specifically in WordPress.
+ * Description: Inject custom CSS, JS, header footer scripts, and tracking codes globally or page-specifically.
  * Version:     1.0.0
  * Author:      Muhammad Ali Raza
  * Author URI:  https://github.com/aliraza254

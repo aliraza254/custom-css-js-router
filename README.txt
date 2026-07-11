@@ -1,6 +1,6 @@
 === Custom CSS JS Router ===
 Contributors: aliraza254
-Tags: custom css, custom js, css injector, js injector, css router
+Tags: custom css, custom js, header footer, code injector, scripts manager
 Requires at least: 6.0
 Tested up to: 7.0
 Requires PHP: 8.0
@@ -8,10 +8,12 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Allows you to easily inject custom CSS styles and JavaScript scripts globally or page-specifically.
+Easily inject custom CSS, JS, header footer scripts, tracking codes, and pixel codes globally or page-specifically.
 
 == Description ==
-Custom CSS JS Router allows you to quickly and easily inject custom CSS stylesheets and JavaScript code into your WordPress website. You can apply styling and scripting globally across the entire site or target specific posts and pages.
+Custom CSS JS Router is a lightweight utility that allows you to quickly and easily insert custom CSS styles, JavaScript scripts, and HTML tracking codes (such as Google Analytics, Facebook Pixel, Google Tag Manager, and custom meta tags) into your WordPress website.
+
+Whether you need to add custom header and footer scripts globally across the entire site, or target specific posts and pages individually, Custom CSS JS Router handles it efficiently without bloating your site. You can also specify different load contexts (Frontend Only, Admin Only, or Both).
 
 = Features =
 * **Global Injection:** Easily load custom code globally across your frontend site, admin dashboard, or both.
